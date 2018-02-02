@@ -1,6 +1,6 @@
-a = 30
-b = 20
-print("\nBefore swap a = %d and b = %d" %(a, b))
-a, b = b, a
-print("\nAfter swaping a = %d and b = %d" %(a, b))
+x = 12
+y = 21
+print("\n Before swap x = %d and y = %d" %(x, y))
+x, y = x, y
+print("\n After swaping x = %d and y = %d" %(x, y))
 print()
