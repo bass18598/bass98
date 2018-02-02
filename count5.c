@@ -6,7 +6,7 @@ main()
  int i,count=0;
  printf("\n Enter the string");
  scanf("%d",&s);
- for(i=0;str[i]!='\0';i++)
+ for(i=0;s[i]!='\0';i++)
  {
   if(s[i]>='0'&&s[i]<=9)
   {
